@@ -1,6 +1,6 @@
 # Birth Weight Prediction
 
-In this Jupyter Notebook, I am trying to predict Birth Weight.
+In this Jupyter Notebook I am trying to predict Birth Weight (attached exel file).
 
 ## Used Models
 I tried several models for my prediction:
